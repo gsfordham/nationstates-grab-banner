@@ -1,0 +1,1 @@
+window.open(((function(){return(((function(x){return (x.substring(5, (x.length - 2)));})(document.getElementById("nationcover").style.backgroundImage)));})()), "_blank");
